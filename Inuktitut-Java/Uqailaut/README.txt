@@ -161,6 +161,7 @@ v : verb root
 n : noun root
 a : adverb
 c : conjunction
+e : exclamation
 q : tail suffix
 nn : noun-to-noun suffix
 nv : noun-to-verb suffix
