@@ -173,8 +173,10 @@ tad-<case> : demonstrative adverb ending
 tpd-<case>-<number> : demonstrative pronoun ending
 pd-<location>-<number> : demonstrative pronoun
 ad-<location> : demonstrative adverb
-rad : demonstrative adverb root
-rpd : demonstrative pronoun root
+rad-<location>-<number> : demonstrative adverb root
+rpd-<location>-<number> : demonstrative pronoun root
+rpr : reflexive pronoun root
+pr : pronoun root
 
 <mode>:	dec : declarative
 			ger : gerundive
